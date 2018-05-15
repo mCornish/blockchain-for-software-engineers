@@ -59,6 +59,9 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
 - [ ] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
+### Meta
+- [Tips for studying data structures](https://www.quora.com/What-are-some-tips-for-self-studying-Data-Structures-and-Algorithms)
+
 ## Cryptography
 - [ ] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 - [ ] [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
