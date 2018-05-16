@@ -53,6 +53,7 @@ Everything below is a prioritized outline and you should work from the top to th
 Blockchain technology is a multi-disciplinary field built atop cryptography, economics, and computer science. The background section includes some requisite fundamentals in these fields that will ensure you have solid footing before diving deeper into the blockchain specifics since many of the features that exist today are results of years and years of previous research.
 
 ## Data Structures
+
 - [ ] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
 - [ ] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [ ] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
@@ -60,6 +61,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [ ] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
 ### Meta
+- [What are data structures?](https://medium.com/swlh/introduction-to-data-structures-9134b7d064a6)
 - [Tips for studying data structures](https://www.quora.com/What-are-some-tips-for-self-studying-Data-Structures-and-Algorithms)
 
 ## Cryptography
