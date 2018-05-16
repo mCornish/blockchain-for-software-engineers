@@ -52,19 +52,24 @@ Everything below is a prioritized outline and you should work from the top to th
 # Background
 Blockchain technology is a multi-disciplinary field built atop cryptography, economics, and computer science. The background section includes some requisite fundamentals in these fields that will ensure you have solid footing before diving deeper into the blockchain specifics since many of the features that exist today are results of years and years of previous research.
 
-## Intro to Data Structures
+## Data Structures
+
+## Intro
 - [x] [Tips for studying data strucutres](https://www.quora.com/Is-it-possible-to-understand-data-Structures-when-I-have-just-basic-knowledge-of-programming/answer/Arundhati-Kanungo)
 - [x] [More tips for studying data structures](https://www.quora.com/What-are-some-tips-for-self-studying-Data-Structures-and-Algorithms)
 - [x] [What are data structures? (Basic)](https://medium.com/swlh/introduction-to-data-structures-9134b7d064a6)
 - [ ] [What are data structures? (Advanced)](https://www.studytonight.com/data-structures/introduction-to-data-structures)
 
-## Data Structures
-
+### Structures to Know
 - [ ] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
 - [ ] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [ ] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
 - [ ] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
 - [ ] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+
+### Reccommended Books
+- Introduction to Algorithms by Ronald L. Rivest
+- Data Structures with C by Seymour Lipschutz
 
 
 ## Cryptography
