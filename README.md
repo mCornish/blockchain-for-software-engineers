@@ -1,4 +1,4 @@
-# Blockchain for Software Engineers
+# Blockchain for Software Engineers ([Forked from here](https://github.com/benstew/blockchain-for-software-engineers))
 Inspired by [Google Interview University](https://www.google.com), [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers), [The Authoritative Guide to Blockchain Development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
 
 "The blockchain symbolizes a shift in power from the centers to the edges of the networks." - William Mougayar
@@ -52,13 +52,13 @@ Everything below is a prioritized outline and you should work from the top to th
 # Background
 Blockchain technology is a multi-disciplinary field built atop cryptography, economics, and computer science. The background section includes some requisite fundamentals in these fields that will ensure you have solid footing before diving deeper into the blockchain specifics since many of the features that exist today are results of years and years of previous research.
 
-## Data Structures
-
-### Intro to Data Structures
+## Intro to Data Structures
 - [x] [Tips for studying data strucutres](https://www.quora.com/Is-it-possible-to-understand-data-Structures-when-I-have-just-basic-knowledge-of-programming/answer/Arundhati-Kanungo)
 - [x] [More tips for studying data structures](https://www.quora.com/What-are-some-tips-for-self-studying-Data-Structures-and-Algorithms)
 - [x] [What are data structures? (Basic)](https://medium.com/swlh/introduction-to-data-structures-9134b7d064a6)
 - [x] [What are data structures? (Advanced)](https://www.studytonight.com/data-structures/introduction-to-data-structures)
+
+## Data Structures
 
 - [ ] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
 - [ ] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
