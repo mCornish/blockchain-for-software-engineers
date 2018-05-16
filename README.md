@@ -56,7 +56,7 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 - [x] [Tips for studying data strucutres](https://www.quora.com/Is-it-possible-to-understand-data-Structures-when-I-have-just-basic-knowledge-of-programming/answer/Arundhati-Kanungo)
 - [x] [More tips for studying data structures](https://www.quora.com/What-are-some-tips-for-self-studying-Data-Structures-and-Algorithms)
 - [x] [What are data structures? (Basic)](https://medium.com/swlh/introduction-to-data-structures-9134b7d064a6)
-- [] [What are data structures? (Advanced)](https://www.studytonight.com/data-structures/introduction-to-data-structures)
+- [ ] [What are data structures? (Advanced)](https://www.studytonight.com/data-structures/introduction-to-data-structures)
 
 ## Data Structures
 
