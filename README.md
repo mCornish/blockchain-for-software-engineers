@@ -54,15 +54,18 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 ## Data Structures
 
+### Intro to Data Structures
+- [x] [Tips for studying data strucutres](https://www.quora.com/Is-it-possible-to-understand-data-Structures-when-I-have-just-basic-knowledge-of-programming/answer/Arundhati-Kanungo)
+- [x] [More tips for studying data structures](https://www.quora.com/What-are-some-tips-for-self-studying-Data-Structures-and-Algorithms)
+- [x] [What are data structures? (Basic)](https://medium.com/swlh/introduction-to-data-structures-9134b7d064a6)
+- [x] [What are data structures? (Advanced)](https://www.studytonight.com/data-structures/introduction-to-data-structures)
+
 - [ ] [Linked Lists](https://en.wikipedia.org/wiki/Linked_list)
 - [ ] [Binary Search Trees](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [ ] [Hash Maps](https://en.wikipedia.org/wiki/Hash_table)
 - [ ] [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
 - [ ] [Directed Acyclic Graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
-### Meta
-- [What are data structures?](https://medium.com/swlh/introduction-to-data-structures-9134b7d064a6)
-- [Tips for studying data structures](https://www.quora.com/What-are-some-tips-for-self-studying-Data-Structures-and-Algorithms)
 
 ## Cryptography
 - [ ] [Public/Private Key Cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
